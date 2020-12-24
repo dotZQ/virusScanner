@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  VirusScanner
-//
-//  Created by ZQ314159 on 9/7/2563 BE.
-//  Copyright © 2563 ZQ314159. All rights reserved.
-//
+
 
 #include <iostream>
 #include <fstream>
